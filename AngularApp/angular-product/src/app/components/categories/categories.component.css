@@ -1,0 +1,25 @@
+thead {
+  backdrop-filter: blur(0px) saturate(2%);
+  -webkit-backdrop-filter: blur(0px) saturate(2%);
+  background-color: rgba(14, 7, 224, 0.65);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  color: #000000;
+  box-shadow: 4px 3px 16px -1px rgba(0,0,0,0.75);
+}
+
+tbody {
+  backdrop-filter: blur(0px) saturate(2%);
+  -webkit-backdrop-filter: blur(0px) saturate(2%);
+  background-color: rgba(146, 191, 223, 0.26);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  color: #000000;
+  box-shadow: 4px 3px 16px -1px rgba(0,0,0,0.75);
+}
+
+h2 {
+  font-family: 'Great Vibes';
+  font-size: 44px;
+  font-weight: bold;
+}
